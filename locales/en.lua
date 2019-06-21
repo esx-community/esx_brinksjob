@@ -1,0 +1,33 @@
+Locales['en'] = {
+	['cloakroom']				= 'cloakroom',
+	['job_wear']				= 'workwear',
+	['citizen_wear']			= 'civilian clothes',
+	['vehiclespawner']			= 'choice of truck', 
+	['already_have_truck']		= 'we have allready provided a truck!', 
+	['delivery']				= 'press ~INPUT_PICKUP~ to start money pickup(~r~Look for a blue cart might have to go inside~r~)',
+	['not_your_truck']			= 'it is not the truck that you have provided !',
+	['not_your_truck2']			= 'you must be in the truck that you were provided with !',
+	['need_it']					= 'yeah, but we need it !',
+	['ok_work']					= 'ok, at work then !',
+	['scared_me']				= 'ok, you scared me there !',
+	['resume_delivery']			= 'ok, resume your delivery then !',
+	['not_delivery']			= 'no pickup no Cash',
+	['pay_repair']				= 'on the other hand you pay the repairs !',
+	['repair_minus']			= 'truck repairs : -',
+	['shipments_plus']			= 'shipments : +',
+	['truck_state']				= 'no money dude, seen the state of the truck !',
+	['no_delivery_no_truck']  	= 'no delivery, no truck! Its a joke?',
+	['truck_price']				= 'truck price : -',
+	['meet_ls']					= 'go to the next pickup Location',
+	['meet_bc']					= 'go to the next pickup Location',
+	['meet_del']				= 'go to the next pickup Location',
+	['return_depot']			= 'return to the depot.',
+	['blip_job']				= 'Brinks Company', --'Garbage company',
+	['blip_delivery']			= 'Brinks Company : Pickup Location', --'Garbage company : Delivery',
+	['blip_goal']				= 'Brinks Company : Money Pickup', --'Garbage company : Delivery point',
+	['blip_depot']				= 'Brinks Company : depot', --'Garbage company : depot',
+	['cancel_mission']			= 'press ~INPUT_PICKUP~ to cancel the mission',
+}
+
+
+
